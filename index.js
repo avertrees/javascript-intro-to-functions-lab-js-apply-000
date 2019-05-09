@@ -10,3 +10,7 @@ function whisper(string){
 function logShout(string){
   
 }
+
+function logShout(string){
+  
+}
