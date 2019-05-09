@@ -4,13 +4,17 @@ function shout(string) //returns string in all caps
 }
 
 function whisper(string){
-  
+  return(string.toUpperCase())
 }
 
 function logShout(string){
   
 }
 
-function logShout(string){
+function logWhisper(string){
+  
+}
+
+function sayHiToGrandma(string){
   
 }
